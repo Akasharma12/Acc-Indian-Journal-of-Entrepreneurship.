@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -117,7 +115,7 @@
         <h3 class="section-title">The Birth of <em>Flove</em>: Crafting Events with Heart</h3>
 
         <p class="article-content">
-            The idea for <em>Flove</em> came from the duo’s shared love of celebrating life’s most significant moments. Both Khundrakpam Nikhil and Laimayum Aditya Kumar Sharma had always been drawn to events—whether it was weddings, corporate functions, or social gatherings. They recognized an opportunity to blend their creative abilities and organizational talents to offer a service that would provide more than just a well-planned event. They wanted to create experiences—memories that would last a lifetime.
+            The idea for <em>Flove</em> came from the duo’s shared love of celebrating life’s most significant moments.  Both Khundrakpam Nikhil Founder and Proprietor of Flove and Laimayum Aditya Kumar Sharma Co-founder and Co-Proprietor of flove had always been drawn to events—whether it was weddings, corporate functions, or social gatherings. They recognized an opportunity to blend their creative abilities and organizational talents to offer a service that would provide more than just a well-planned event. They wanted to create experiences—memories that would last a lifetime.
         </p>
 
         <p class="article-content">
